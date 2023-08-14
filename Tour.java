@@ -346,7 +346,6 @@ public class Tour {
                 }
             }
             else if (opcion == 2) {
-                System.out.println("Salir");
                 break;
             }
             else {
